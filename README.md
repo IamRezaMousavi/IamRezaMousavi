@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 ![github-trophy](https://github-profile-trophy.vercel.app/?username=iamrezamousavi&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&columns=4)
 
 ---
-[![visit-count](https://visitcount.itsvg.in/api?id=IamRezaMousavi&pretty=false)](https://visitcount.itsvg.in)
+[![visit-count](https://visitcount.itsvg.in/api?id=IamRezaMousavi&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ### 💰 You can help me by Donating
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://www.buymeacoffee.com/iamrezamousavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/iamrezamousavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 118px !important;" ></a>
 
-<a href="http://www.coffeete.ir/iamrezamousavi"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" /></a>
+<a href="http://www.coffeete.ir/iamrezamousavi"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:118px;" /></a>
 <!-- markdownlint-enable MD033 -->
