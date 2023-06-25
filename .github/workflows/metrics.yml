@@ -25,7 +25,6 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_details: lines, bytes-size
+          plugin_languages_details: percentage, lines, bytes-size
           plugin_languages_limit: 6
-          plugin_languages_analysis_timeout: 15
           user: IamRezaMousavi
