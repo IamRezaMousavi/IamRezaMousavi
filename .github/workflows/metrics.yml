@@ -21,5 +21,8 @@ jobs:
         with:
           filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_language: yes
           plugin_language_indepth: yes
+          plugin_language_details: bytes-size, percentage
+          user: IamRezaMousavi

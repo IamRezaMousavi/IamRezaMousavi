@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Metrics](/github-metrics.svg)
-![Metrics](/language.svg)
+![Metrics](/languages.svg)
 
 [![commit-today](https://badges.strrl.dev/commits/daily/IamRezaMousavi)]((https://badges.strrl.dev))
 
