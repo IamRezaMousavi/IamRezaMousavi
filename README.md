@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 <!-- markdownlint-disable MD033 -->
 <h1 align="center">A passionate DevOps engineer</h1>
-<!-- markdownlint-enable MD033 -->
 
 ## 💻 Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![Anaconda](https://img.shields.io/badge/Anaconda-black?style=flat-square&logo=anaconda)
@@ -48,26 +49,41 @@ Here are some ideas to get you started:
 ![Github-Actions](https://img.shields.io/badge/Github_Actions-black?style=flat-square&logo=github-actions)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![Gitea](https://img.shields.io/badge/Gitea-black?style=flat-square&logo=gitea)
+</div>
 
 ## 📊 GitHub Stats
+
+<div align="center">
+
+[![Years Badge](https://badges.strrl.dev/years/IamRezaMousavi)](https://badges.strrl.dev)
+[![commit-today](https://badges.strrl.dev/commits/daily/IamRezaMousavi)]((https://badges.strrl.dev))
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrezamousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=6)
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=iamrezamousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=iamrezamousavi&theme=dark&hide_border=false)
+</div>
 
 ### 🏆 GitHub Trophies
 
+<div align="center">
+
 ![github-trophy](https://github-profile-trophy.vercel.app/?username=iamrezamousavi&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&columns=4)
+</div>
 
 ---
+<div align="center">
+
 [![visit-count](https://visitcount.itsvg.in/api?id=IamRezaMousavi&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
+</div>
 
 ### 💰 You can help me by Donating
 
-<!-- markdownlint-disable MD033 -->
+<div align="center">
 <a href="https://www.buymeacoffee.com/iamrezamousavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 118px !important;" ></a>
 
 <a href="http://www.coffeete.ir/iamrezamousavi"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:118px;" /></a>
+
+</div>
 <!-- markdownlint-enable MD033 -->
