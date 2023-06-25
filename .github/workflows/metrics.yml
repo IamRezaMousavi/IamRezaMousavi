@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       
       - name: Languages activity - Indepth analysis
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -28,3 +28,12 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_limit: 6
           user: IamRezaMousavi
+      - name: Comment reactions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: comment.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
