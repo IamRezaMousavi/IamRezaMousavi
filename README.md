@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+![Metrics](/github-metrics.svg)
+
 [![Years Badge](https://badges.strrl.dev/years/IamRezaMousavi)](https://badges.strrl.dev)
 [![commit-today](https://badges.strrl.dev/commits/daily/IamRezaMousavi)]((https://badges.strrl.dev))
 
