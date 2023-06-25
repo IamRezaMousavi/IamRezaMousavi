@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 ![Metrics](/github-metrics.svg)
+![Metrics](/language.svg)
 
-[![Years Badge](https://badges.strrl.dev/years/IamRezaMousavi)](https://badges.strrl.dev)
 [![commit-today](https://badges.strrl.dev/commits/daily/IamRezaMousavi)]((https://badges.strrl.dev))
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrezamousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=6)
