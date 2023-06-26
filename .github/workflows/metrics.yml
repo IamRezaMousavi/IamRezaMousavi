@@ -37,8 +37,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
-      
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 0
+
       - name: Comment reactions
         uses: lowlighter/metrics@latest
         with:
@@ -47,7 +48,7 @@ jobs:
           base: ""
           plugin_reactions: yes
           plugin_reactions_limit: 100
-          plugin_reactions_details: percentage
+          plugin_reactions_details: count, percentage
       
       - name: Featured star list languages
         uses: lowlighter/metrics@latest
@@ -59,8 +60,8 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 0
-          plugin_starlists_only: Awesome
-      
+
+
       - name: Recent activity
         uses: lowlighter/metrics@latest
         with:
@@ -68,6 +69,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 8
           plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
