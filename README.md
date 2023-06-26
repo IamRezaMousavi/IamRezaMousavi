@@ -55,26 +55,33 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Metrics](/github-metrics.svg)
-![Metrics](/languages.svg)
+![User Metrics](./images/user-metrics.svg)
+![Most Used Languages](./images/most-used-languages.svg)
+![Achievements Detailed](./images/achievements-detailed.svg)
+![Comment Reactions](./images/comment-reactions.svg)
+![Star List Languages](./images/star-list-languages.svg)
+![Recent Activity](./images/recent-activity.svg)
+</div>
 
-[![commit-today](https://badges.strrl.dev/commits/daily/IamRezaMousavi)]((https://badges.strrl.dev))
+<details>
+<summary>More Details</summary>
+<div align="center">
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrezamousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=6)
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=iamrezamousavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=iamrezamousavi&theme=dark&hide_border=false)
-</div>
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-
 ![github-trophy](https://github-profile-trophy.vercel.app/?username=iamrezamousavi&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&columns=4)
+
 </div>
+</details>
 
 ---
+
 <div align="center">
 
 [![visit-count](https://visitcount.itsvg.in/api?id=IamRezaMousavi&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
