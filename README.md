@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- markdownlint-disable MD033 -->
-<h1 align="center">A passionate DevOps engineer</h1>
+<h1 align="center">A Software Engineer</h1>
 
 ## 💻 Tech Stack
 
