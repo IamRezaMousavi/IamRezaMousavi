@@ -70,7 +70,6 @@ Here are some ideas to get you started:
 ![Most Used Languages](./images/most-used-languages.svg)
 ![Achievements Detailed](./images/achievements-detailed.svg)
 ![Comment Reactions](./images/comment-reactions.svg)
-![Star List Languages](./images/star-list-languages.svg)
 ![Recent Activity](./images/recent-activity.svg)
 </div>
 
@@ -101,9 +100,8 @@ Here are some ideas to get you started:
 ### 💰 You can help me by Donating
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/iamrezamousavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 118px !important;" ></a>
+<a href="https://www.buymeacoffee.com/iamrezamousavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<a href="http://www.coffeete.ir/iamrezamousavi"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:118px;" /></a>
-
+<a href="http://www.coffeete.ir/iamrezamousavi"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" /></a>
 </div>
 <!-- markdownlint-enable MD033 -->
