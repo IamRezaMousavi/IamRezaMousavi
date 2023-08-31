@@ -25,9 +25,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-
           plugin_languages_details: percentage, lines
-          plugin_languages_limit: 6
+          plugin_languages_limit: 8
           user: IamRezaMousavi
       
       - name: Achievements detailed display
@@ -37,9 +36,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          # plugin_achievements_display: compact
           plugin_achievements_threshold: X
-
 
       - name: Comment reactions
         uses: lowlighter/metrics@latest
@@ -50,17 +48,6 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: count, percentage
-      
-      - name: Featured star list languages
-        uses: lowlighter/metrics@latest
-        with:
-          filename: images/starlist-languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          plugin_starlists_limit_languages: 8
-
 
       - name: Recent activity
         uses: lowlighter/metrics@latest
@@ -71,4 +58,4 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 8
           plugin_activity_days: 0
-          plugin_activity_ignored: star, ref/delete
+          plugin_activity_ignored: star, comment, ref/delete
