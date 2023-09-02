@@ -30,7 +30,7 @@ jobs:
           user: IamRezaMousavi
       
       - name: Achievements detailed display
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@271648e46e091ed8a3bd8172211f6d6fd62fe8af
         with:
           filename: images/achievements-detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
