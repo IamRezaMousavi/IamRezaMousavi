@@ -128,47 +128,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.89473684210526 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <g stroke="#2088FF">
-                                                <path d="M20 24l-3.397 3.398a.85.85 0 000 1.203L20.002 32M37.015 24l3.399 3.398a.85.85 0 010 1.203L37.014 32" stroke-linejoin="round"/>
-                                                <path d="M31.029 21.044L25.976 35.06"/>
-                                            </g>
-                                            <path stroke="#79B8FF" stroke-linejoin="round" d="M23.018 10h8.984M26 47h5M8 16h16m9 0h15.725M8 41h13"/>
-                                            <path d="M5.027 34.998c.673 2.157 1.726 4.396 2.81 6.02m43.38-19.095C50.7 19.921 49.866 17.796 48.79 16" stroke="#79B8FF"/>
-                                            <path stroke="#2088FF" stroke-linejoin="round" d="M26 41h17"/>
-                                            <path d="M7.183 16C5.186 19.582 4 23.619 4 28M42.608 47.02c2.647-1.87 5.642-5.448 7.295-9.18C51.52 34.191 52.071 30.323 52 28" stroke="#2088FF"/>
-                                            <path stroke="#2088FF" stroke-linejoin="round" d="M7.226 16H28M13.343 47H21"/>
-                                            <path d="M13.337 47.01a24.364 24.364 0 006.19 3.45 24.527 24.527 0 007.217 1.505c2.145.108 4.672-.05 7.295-.738" stroke="#2088FF"/>
-                                            <path stroke="#2088FF" stroke-linejoin="round" d="M36 47h6.647M12 10h6M37 10h6.858"/>
-                                            <path d="M43.852 10c-4.003-3.667-9.984-6.054-16.047-6-2.367.021-4.658.347-6.81 1.045" stroke="#2088FF"/>
-                                            <path stroke="#79B8FF" stroke-linejoin="round" d="M5.041 35h4.962M47 22h4.191"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Developer
-                                    <span class="gh">ranked 4.42m out of 121m users</span>
-                                </div>
-                                <div class="text">Published 13 public repositories</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.65331964407939 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.86550308008212 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -204,7 +164,47 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.683417085427134 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.57894736842105 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
+                                            <g stroke="#2088FF">
+                                                <path d="M20 24l-3.397 3.398a.85.85 0 000 1.203L20.002 32M37.015 24l3.399 3.398a.85.85 0 010 1.203L37.014 32" stroke-linejoin="round"/>
+                                                <path d="M31.029 21.044L25.976 35.06"/>
+                                            </g>
+                                            <path stroke="#79B8FF" stroke-linejoin="round" d="M23.018 10h8.984M26 47h5M8 16h16m9 0h15.725M8 41h13"/>
+                                            <path d="M5.027 34.998c.673 2.157 1.726 4.396 2.81 6.02m43.38-19.095C50.7 19.921 49.866 17.796 48.79 16" stroke="#79B8FF"/>
+                                            <path stroke="#2088FF" stroke-linejoin="round" d="M26 41h17"/>
+                                            <path d="M7.183 16C5.186 19.582 4 23.619 4 28M42.608 47.02c2.647-1.87 5.642-5.448 7.295-9.18C51.52 34.191 52.071 30.323 52 28" stroke="#2088FF"/>
+                                            <path stroke="#2088FF" stroke-linejoin="round" d="M7.226 16H28M13.343 47H21"/>
+                                            <path d="M13.337 47.01a24.364 24.364 0 006.19 3.45 24.527 24.527 0 007.217 1.505c2.145.108 4.672-.05 7.295-.738" stroke="#2088FF"/>
+                                            <path stroke="#2088FF" stroke-linejoin="round" d="M36 47h6.647M12 10h6M37 10h6.858"/>
+                                            <path d="M43.852 10c-4.003-3.667-9.984-6.054-16.047-6-2.367.021-4.658.347-6.81 1.045" stroke="#2088FF"/>
+                                            <path stroke="#79B8FF" stroke-linejoin="round" d="M5.041 35h4.962M47 22h4.191"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Developer
+                                    <span class="gh">ranked 5.29m out of 121m users</span>
+                                </div>
+                                <div class="text">Published 11 public repositories</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.241206030150753 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -241,50 +241,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 807k out of 121m users</span>
+                                    <span class="gh">ranked 713k out of 121m users</span>
                                 </div>
-                                <div class="text">Followed by 16 users</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.346733668341708 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <path stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round" d="M26.022 5.014h6M26.012 53.005h6M27.003 47.003h12M44.01 20.005h5M19.01 11.003h12"/>
-                                            <path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M38.005 11.008h6M41 14.013v-6M14.007 47.003h6M17.002 50.004v-6"/>
-                                            <path d="M29.015 5.01l-5.003 5.992 5.003-5.992zM33.015 47.01l-5.003 5.992 5.003-5.992z" stroke="#79B8FF"/>
-                                            <path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M8.01 19.002h6"/>
-                                            <path stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round" d="M47.011 29h6"/>
-                                            <path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M44.012 39.003h6"/>
-                                            <g stroke="#79B8FF">
-                                                <path d="M5.36 29c4.353 0 6.4 4.472 6.4 8"/>
-                                                <path stroke-linecap="round" stroke-linejoin="round" d="M13.99 37.995h-5M10.989 29h-6"/>
-                                            </g>
-                                            <path d="M24.503 22c1.109 0 2.007.895 2.007 2 0 1.104-.898 2-2.007 2a2.004 2.004 0 01-2.008-2c0-1.105.9-2 2.008-2zM24.5 32a2 2 0 110 4 2 2 0 010-4zm9.5 0a2 2 0 110 4 2 2 0 010-4z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path stroke="#2088FF" d="M24.5 26.004v6.001"/>
-                                            <path d="M31.076 23.988l1.027-.023a1.998 1.998 0 011.932 2.01L34 31" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M31.588 26.222l-2.194-2.046 2.046-2.194"/>
-                                            <path d="M29.023 43c7.732 0 14-6.268 14-14s-6.268-14-14-14-14 6.268-14 14 6.268 14 14 14z" stroke="#2088FF"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Contributor
-                                </div>
-                                <div class="text">Opened 13 pull requests</div>
+                                <div class="text">Followed by 18 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -318,6 +277,47 @@
                                     Chatter
                                 </div>
                                 <div class="text">Participated in discussions 13 times</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.5678391959799 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g stroke-width="2" fill="none" fill-rule="evenodd">
+                                            <path stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round" d="M26.022 5.014h6M26.012 53.005h6M27.003 47.003h12M44.01 20.005h5M19.01 11.003h12"/>
+                                            <path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M38.005 11.008h6M41 14.013v-6M14.007 47.003h6M17.002 50.004v-6"/>
+                                            <path d="M29.015 5.01l-5.003 5.992 5.003-5.992zM33.015 47.01l-5.003 5.992 5.003-5.992z" stroke="#79B8FF"/>
+                                            <path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M8.01 19.002h6"/>
+                                            <path stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round" d="M47.011 29h6"/>
+                                            <path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M44.012 39.003h6"/>
+                                            <g stroke="#79B8FF">
+                                                <path d="M5.36 29c4.353 0 6.4 4.472 6.4 8"/>
+                                                <path stroke-linecap="round" stroke-linejoin="round" d="M13.99 37.995h-5M10.989 29h-6"/>
+                                            </g>
+                                            <path d="M24.503 22c1.109 0 2.007.895 2.007 2 0 1.104-.898 2-2.007 2a2.004 2.004 0 01-2.008-2c0-1.105.9-2 2.008-2zM24.5 32a2 2 0 110 4 2 2 0 010-4zm9.5 0a2 2 0 110 4 2 2 0 010-4z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path stroke="#2088FF" d="M24.5 26.004v6.001"/>
+                                            <path d="M31.076 23.988l1.027-.023a1.998 1.998 0 011.932 2.01L34 31" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M31.588 26.222l-2.194-2.046 2.046-2.194"/>
+                                            <path d="M29.023 43c7.732 0 14-6.268 14-14s-6.268-14-14-14-14 6.268-14 14 6.268 14 14 14z" stroke="#2088FF"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Contributor
+                                </div>
+                                <div class="text">Opened 12 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -419,7 +419,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.06m out of 49.8m repositories</span>
+                                    <span class="gh">ranked 967k out of 57.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 21 stars</div>
                             </div>
@@ -465,7 +465,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.63m out of 49.8m repositories</span>
+                                    <span class="gh">ranked 4.56m out of 57.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
