@@ -43,23 +43,30 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust)
 ![Tauri](https://img.shields.io/badge/Tauri-black?style=flat-square&logo=tauri)
 </br>
+![Dart](https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter&logoColor=02569B)
+</br>
 ![Sqlite](https://img.shields.io/badge/Sqlite-black?style=flat-square&logo=sqlite&logoColor=003b57)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 </br>
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code&logoColor=007acc)
-![Vim](https://img.shields.io/badge/Vim-black?style=flat-square&logo=vim&logoColor=019733)
+![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
 </br>
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Arch-Linux](https://img.shields.io/badge/Arch_Linux-black?style=flat-square&logo=archlinux)
 ![Gnome](https://img.shields.io/badge/Gnome-black?style=flat-square&logo=gnome)
 ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=0078d6)
 </br>
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Zsh](https://img.shields.io/badge/Zsh-black?style=flat-square&logo=zsh)
 ![Github-Actions](https://img.shields.io/badge/Github_Actions-black?style=flat-square&logo=github-actions)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 </br>
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![Gitea](https://img.shields.io/badge/Gitea-black?style=flat-square&logo=gitea)
+</br>
+![ActivityPub](https://img.shields.io/badge/ActivityPub-black?style=flat-square&logo=activitypub&logoColor=F1007E)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-black?style=flat-square&logo=bitcoin)
 </div>
 
 ## 📊 GitHub Stats
