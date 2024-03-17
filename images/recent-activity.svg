@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="538" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="388" class="">
     <defs>
         <style/>
     </defs>
@@ -19,18 +19,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">IamRezaMousavi/persian-calendar</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">custom-notification</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#32eedd7</div>
-                                        <div class="message">add non-jafari mode to notification</div>
+                                        Starred
+                                        <span class="repo">rumboalla/apkupdater</span>
                                     </div>
                                 </div>
                             </section>
@@ -43,7 +36,23 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">TheMusicmax/Musicmax</span>
+                                        <span class="repo">brave/brave-browser</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">impl-role-logic</span>
+                                        in
+                                        <span class="repo">IamRezaMousavi/Mafia</span>
                                     </div>
                                 </div>
                             </section>
@@ -56,14 +65,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">IamRezaMousavi/2048</span>
+                                        <span class="repo">IamRezaMousavi/Mafia</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eb1fd68</div>
-                                        <div class="message">change repo name</div>
+                                        <div class="sha">#c400082</div>
+                                        <div class="message">change java dir to kotlin</div>
                                     </div>
                                 </div>
                             </section>
@@ -76,14 +85,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">IamRezaMousavi/2048</span>
+                                        <span class="repo">IamRezaMousavi/Mafia</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5f383c4</div>
-                                        <div class="message">change repo name</div>
+                                        <div class="sha">#9257514</div>
+                                        <div class="message">cleaning some code and implement roleviewmodel structure</div>
                                     </div>
                                 </div>
                             </section>
@@ -92,144 +101,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">IamRezaMousavi/iamrezamousavi.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1283f05</div>
-                                        <div class="message">Merge pull request #2 from IamRezaMousavi/dependabot/npm_and_yarn/npm-dependencies-3ba840b225
-
-Bump the npm-dependencies group with 11 updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db702c8</div>
-                                        <div class="message">Bump the npm-dependencies group with 11 updates
-
-Bumps the npm-dependencies group with 11 updates:
-
-| Package | From | To |
-| --- | --- | --- |
-| [sass](https://github.com/sass/dart-sass) | `1.69.5` | `1.72.0` |
-| [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) | `18.2.33` | `18.2.66` |
-| [@types/react-dom](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react-dom) | `18.2.14` | `18.2.22` |
-| [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/eslint-plugin) | `6.9.0` | `7.2.0` |
-| [@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser) | `6.9.0` | `7.2.0` |
-| [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/tree/HEAD/packages/plugin-react) | `4.1.0` | `4.2.1` |
-| [eslint](https://github.com/eslint/eslint) | `8.52.0` | `8.57.0` |
-| [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) | `7.33.2` | `7.34.0` |
-| [eslint-plugin-react-refresh](https://github.com/ArnaudBarre/eslint-plugin-react-refresh) | `0.4.3` | `0.4.6` |
-| [typescript](https://github.com/Microsoft/TypeScript) | `5.2.2` | `5.4.2` |
-| [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) | `4.5.0` | `5.1.6` |
-
-
-Updates `sass` from 1.69.5 to 1.72.0
-- [Release notes](https://github.com/sass/dart-sass/releases)
-- [Changelog](https://github.com/sass/dart-sass/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/sass/dart-sass/compare/1.69.5...1.72.0)
-
-Updates `@types/react` from 18.2.33 to 18.2.66
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
-
-Updates `@types/react-dom` from 18.2.14 to 18.2.22
-- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
-- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react-dom)
-
-Updates `@typescript-eslint/eslint-plugin` from 6.9.0 to 7.2.0
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v7.2.0/packages/eslint-plugin)
-
-Updates `@typescript-eslint/parser` from 6.9.0 to 7.2.0
-- [Release notes](https://github.com/typescript-eslint/typescript-eslint/releases)
-- [Changelog](https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md)
-- [Commits](https://github.com/typescript-eslint/typescript-eslint/commits/v7.2.0/packages/parser)
-
-Updates `@vitejs/plugin-react` from 4.1.0 to 4.2.1
-- [Release notes](https://github.com/vitejs/vite-plugin-react/releases)
-- [Changelog](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/CHANGELOG.md)
-- [Commits](https://github.com/vitejs/vite-plugin-react/commits/v4.2.1/packages/plugin-react)
-
-Updates `eslint` from 8.52.0 to 8.57.0
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/eslint/eslint/compare/v8.52.0...v8.57.0)
-
-Updates `eslint-plugin-react` from 7.33.2 to 7.34.0
-- [Release notes](https://github.com/jsx-eslint/eslint-plugin-react/releases)
-- [Changelog](https://github.com/jsx-eslint/eslint-plugin-react/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/jsx-eslint/eslint-plugin-react/compare/v7.33.2...v7.34.0)
-
-Updates `eslint-plugin-react-refresh` from 0.4.3 to 0.4.6
-- [Release notes](https://github.com/ArnaudBarre/eslint-plugin-react-refresh/releases)
-- [Changelog](https://github.com/ArnaudBarre/eslint-plugin-react-refresh/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ArnaudBarre/eslint-plugin-react-refresh/compare/v0.4.3...v0.4.6)
-
-Updates `typescript` from 5.2.2 to 5.4.2
-- [Release notes](https://github.com/Microsoft/TypeScript/releases)
-- [Changelog](https://github.com/microsoft/TypeScript/blob/main/azure-pipelines.release.yml)
-- [Commits](https://github.com/Microsoft/TypeScript/compare/v5.2.2...v5.4.2)
-
-Updates `vite` from 4.5.0 to 5.1.6
-- [Release notes](https://github.com/vitejs/vite/releases)
-- [Changelog](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
-- [Commits](https://github.com/vitejs/vite/commits/v5.1.6/packages/vite)
-
----
-updated-dependencies:
-- dependency-name: sass
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: npm-dependencies
-- dependency-name: "@types/react"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-dependencies
-- dependency-name: "@types/react-dom"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-dependencies
-- dependency-name: "@typescript-eslint/eslint-plugin"
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-  dependency-group: npm-dependencies
-- dependency-name: "@typescript-eslint/parser"
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-  dependency-group: npm-dependencies
-- dependency-name: "@vitejs/plugin-react"
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-  dependency-group: npm-dependencies
-- dependency-name: eslint
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-  dependency-group: npm-dependencies
-- dependency-name: eslint-plugin-react
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-  dependency-group: npm-dependencies
-- dependency-name: eslint-plugin-react-refresh
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-  dependency-group: npm-dependencies
-- dependency-name: typescript
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-  dependency-group: npm-dependencies
-- dependency-name: vite
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-  dependency-group: npm-dependencies
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        Starred
+                                        <span class="repo">renovatebot/renovate</span>
                                     </div>
                                 </div>
                             </section>
@@ -242,14 +118,14 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">IamRezaMousavi/iamrezamousavi.github.io</span>
+                                        <span class="repo">IamRezaMousavi/Mafia</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#db026c3</div>
-                                        <div class="message">fix eslint rules and add lint action</div>
+                                        <div class="sha">#a14faa2</div>
+                                        <div class="message">update gradle and android plugin</div>
                                     </div>
                                 </div>
                             </section>
@@ -258,38 +134,11 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">IamRezaMousavi/iamrezamousavi.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bcd5687</div>
-                                        <div class="message">fix eslint rules and add lint action</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">IamRezaMousavi/iamrezamousavi.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ee29b60</div>
-                                        <div class="message">fix eslint rules and add lint action</div>
+                                        Starred
+                                        <span class="repo">zyrouge/symphony</span>
                                     </div>
                                 </div>
                             </section>
