@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.84491265219694" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="223.84491265219694" y="0" width="102.11366860772897" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="325.9585812599259" y="0" width="56.019184753838005" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="381.97776601376387" y="0" width="56.013340391741664" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="437.99110640550555" y="0" width="12.712461619904712" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="450.7035680254103" y="0" width="9.29643197458973" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.07349737509375" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="222.07349737509375" y="0" width="101.30558362411426" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="323.379080999208" y="0" width="59.210322320421334" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="382.5894033196293" y="0" width="55.57587229027535" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="438.16527560990465" y="0" width="12.611860500780434" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="450.7771361106851" y="0" width="9.222863889314878" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,18 +38,18 @@
                                 C
                             </div>
                             <small>
-                                <div>48.66%</div>
+                                <div>48.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dart
+                                Kotlin
                             </div>
                             <small>
-                                <div>12.18%</div>
+                                <div>12.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -60,7 +60,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.76%</div>
+                                <div>2.74%</div>
                             </small>
                         </div>
                     </section>
@@ -73,18 +73,18 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>22.2%</div>
+                                <div>22.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00B4AB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Kotlin
+                                Dart
                             </div>
                             <small>
-                                <div>12.18%</div>
+                                <div>12.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -95,7 +95,7 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>2.02%</div>
+                                <div>2%</div>
                             </small>
                         </div>
                     </section>
