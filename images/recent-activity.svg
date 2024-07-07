@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="388" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="405" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,59 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">IamRezaMousavi/persian-gnome-calendar-extension</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5422734</div>
+                                        <div class="message">Merge pull request #36 from IamRezaMousavi/dependabot/npm_and_yarn/npm-dependencies-c7f3415e94
+
+Bump the npm-dependencies group across 1 directory with 2 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28368ea</div>
+                                        <div class="message">Bump the npm-dependencies group across 1 directory with 2 updates
+
+Bumps the npm-dependencies group with 2 updates in the / directory: [eslint](https://github.com/eslint/eslint) and [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc).
+
+
+Updates `eslint` from 9.5.0 to 9.6.0
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/compare/v9.5.0...v9.6.0)
+
+Updates `eslint-plugin-jsdoc` from 48.2.12 to 48.5.0
+- [Release notes](https://github.com/gajus/eslint-plugin-jsdoc/releases)
+- [Changelog](https://github.com/gajus/eslint-plugin-jsdoc/blob/main/.releaserc)
+- [Commits](https://github.com/gajus/eslint-plugin-jsdoc/compare/v48.2.12...v48.5.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-dependencies
+- dependency-name: eslint-plugin-jsdoc
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-dependencies
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -116,26 +169,6 @@
                                     <div class="commit">
                                         <div class="sha">#28ee183</div>
                                         <div class="message">change songs to downloaded title</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">IamRezaMousavi/Banafsh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9bb259f</div>
-                                        <div class="message">add temp database for local songs</div>
                                     </div>
                                 </div>
                             </section>
