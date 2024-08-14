@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="471" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="521" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,264 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">IamRezaMousavi/Mafia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#960c7a8</div>
+                                        <div class="message">Merge pull request #20 from IamRezaMousavi/dependabot/gradle/com.android.application-8.5.2
+
+Bump com.android.application from 8.5.1 to 8.5.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0475cd</div>
+                                        <div class="message">Bump com.android.application from 8.5.1 to 8.5.2
+
+Bumps com.android.application from 8.5.1 to 8.5.2.
+
+---
+updated-dependencies:
+- dependency-name: com.android.application
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">IamRezaMousavi/Mafia</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0523dda</div>
+                                        <div class="message">Merge pull request #21 from IamRezaMousavi/dependabot/gradle/org.jetbrains.kotlin.android-2.0.10
+
+Bump org.jetbrains.kotlin.android from 2.0.0 to 2.0.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f95222</div>
+                                        <div class="message">Bump org.jetbrains.kotlin.android from 2.0.0 to 2.0.10
+
+Bumps [org.jetbrains.kotlin.android](https://github.com/JetBrains/kotlin) from 2.0.0 to 2.0.10.
+- [Release notes](https://github.com/JetBrains/kotlin/releases)
+- [Changelog](https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md)
+- [Commits](https://github.com/JetBrains/kotlin/compare/v2.0.0...v2.0.10)
+
+---
+updated-dependencies:
+- dependency-name: org.jetbrains.kotlin.android
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">IamRezaMousavi/Banafsh</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b176f7</div>
+                                        <div class="message">Merge pull request #21 from IamRezaMousavi/dependabot/gradle/gradle-dependencies-2108617c28
+
+Bump the gradle-dependencies group across 1 directory with 12 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a0d17e</div>
+                                        <div class="message">Bump the gradle-dependencies group across 1 directory with 12 updates
+
+Bumps the gradle-dependencies group with 12 updates in the / directory:
+
+| Package | From | To |
+| --- | --- | --- |
+| androidx.annotation:annotation | `1.8.1` | `1.8.2` |
+| [com.airbnb.android:lottie-compose](https://github.com/airbnb/lottie-android) | `6.4.1` | `6.5.0` |
+| androidx.work:work-runtime | `2.9.0` | `2.9.1` |
+| androidx.work:work-runtime-ktx | `2.9.0` | `2.9.1` |
+| [io.nlopez.compose.rules:detekt](https://github.com/mrmans0n/compose-rules) | `0.4.8` | `0.4.10` |
+| com.android.application | `8.5.1` | `8.5.2` |
+| com.android.lint | `8.5.1` | `8.5.2` |
+| [org.jetbrains.kotlin.jvm](https://github.com/JetBrains/kotlin) | `2.0.0` | `2.0.10` |
+| [org.jetbrains.kotlin.android](https://github.com/JetBrains/kotlin) | `2.0.0` | `2.0.10` |
+| [org.jetbrains.kotlin.plugin.serialization](https://github.com/JetBrains/kotlin) | `2.0.0` | `2.0.10` |
+| [org.jetbrains.kotlin.plugin.compose](https://github.com/JetBrains/kotlin) | `2.0.0` | `2.0.10` |
+| [com.google.devtools.ksp](https://github.com/google/ksp) | `2.0.0-1.0.24` | `2.0.10-1.0.24` |
+
+
+
+Updates `androidx.annotation:annotation` from 1.8.1 to 1.8.2
+
+Updates `com.airbnb.android:lottie-compose` from 6.4.1 to 6.5.0
+- [Release notes](https://github.com/airbnb/lottie-android/releases)
+- [Changelog](https://github.com/airbnb/lottie-android/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/airbnb/lottie-android/compare/v6.4.1...v6.5.0)
+
+Updates `androidx.work:work-runtime` from 2.9.0 to 2.9.1
+
+Updates `androidx.work:work-runtime-ktx` from 2.9.0 to 2.9.1
+
+Updates `androidx.work:work-runtime-ktx` from 2.9.0 to 2.9.1
+
+Updates `io.nlopez.compose.rules:detekt` from 0.4.8 to 0.4.10
+- [Release notes](https://github.com/mrmans0n/compose-rules/releases)
+- [Commits](https://github.com/mrmans0n/compose-rules/compare/v0.4.8...v0.4.10)
+
+Updates `com.android.application` from 8.5.1 to 8.5.2
+
+Updates `com.android.lint` from 8.5.1 to 8.5.2
+
+Updates `com.android.lint` from 8.5.1 to 8.5.2
+
+Updates `org.jetbrains.kotlin.jvm` from 2.0.0 to 2.0.10
+- [Release notes](https://github.com/JetBrains/kotlin/releases)
+- [Changelog](https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md)
+- [Commits](https://github.com/JetBrains/kotlin/compare/v2.0.0...v2.0.10)
+
+Updates `org.jetbrains.kotlin.android` from 2.0.0 to 2.0.10
+- [Release notes](https://github.com/JetBrains/kotlin/releases)
+- [Changelog](https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md)
+- [Commits](https://github.com/JetBrains/kotlin/compare/v2.0.0...v2.0.10)
+
+Updates `org.jetbrains.kotlin.plugin.serialization` from 2.0.0 to 2.0.10
+- [Release notes](https://github.com/JetBrains/kotlin/releases)
+- [Changelog](https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md)
+- [Commits](https://github.com/JetBrains/kotlin/compare/v2.0.0...v2.0.10)
+
+Updates `org.jetbrains.kotlin.plugin.compose` from 2.0.0 to 2.0.10
+- [Release notes](https://github.com/JetBrains/kotlin/releases)
+- [Changelog](https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md)
+- [Commits](https://github.com/JetBrains/kotlin/compare/v2.0.0...v2.0.10)
+
+Updates `org.jetbrains.kotlin.android` from 2.0.0 to 2.0.10
+- [Release notes](https://github.com/JetBrains/kotlin/releases)
+- [Changelog](https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md)
+- [Commits](https://github.com/JetBrains/kotlin/compare/v2.0.0...v2.0.10)
+
+Updates `org.jetbrains.kotlin.plugin.serialization` from 2.0.0 to 2.0.10
+- [Release notes](https://github.com/JetBrains/kotlin/releases)
+- [Changelog](https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md)
+- [Commits](https://github.com/JetBrains/kotlin/compare/v2.0.0...v2.0.10)
+
+Updates `com.google.devtools.ksp` from 2.0.0-1.0.24 to 2.0.10-1.0.24
+- [Release notes](https://github.com/google/ksp/releases)
+- [Commits](https://github.com/google/ksp/compare/2.0.0-1.0.24...2.0.10-1.0.24)
+
+Updates `org.jetbrains.kotlin.plugin.compose` from 2.0.0 to 2.0.10
+- [Release notes](https://github.com/JetBrains/kotlin/releases)
+- [Changelog](https://github.com/JetBrains/kotlin/blob/master/ChangeLog.md)
+- [Commits](https://github.com/JetBrains/kotlin/compare/v2.0.0...v2.0.10)
+
+---
+updated-dependencies:
+- dependency-name: androidx.annotation:annotation
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: com.airbnb.android:lottie-compose
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: gradle-dependencies
+- dependency-name: androidx.work:work-runtime
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: androidx.work:work-runtime-ktx
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: androidx.work:work-runtime-ktx
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: io.nlopez.compose.rules:detekt
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: com.android.application
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: com.android.lint
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: com.android.lint
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: org.jetbrains.kotlin.jvm
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: org.jetbrains.kotlin.android
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: org.jetbrains.kotlin.plugin.serialization
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: org.jetbrains.kotlin.plugin.compose
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: org.jetbrains.kotlin.android
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: org.jetbrains.kotlin.plugin.serialization
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: com.google.devtools.ksp
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+- dependency-name: org.jetbrains.kotlin.plugin.compose
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: gradle-dependencies
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -94,66 +352,6 @@
                                     <div class="commit">
                                         <div class="sha">#9612f6d</div>
                                         <div class="message">create exact test component</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">IamRezaMousavi/z</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d323ce0</div>
-                                        <div class="message">add getting started to README</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">IamRezaMousavi/z</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7b83889</div>
-                                        <div class="message">add code linter</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">IamRezaMousavi/z</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2759ace</div>
-                                        <div class="message">fix some styles</div>
                                     </div>
                                 </div>
                             </section>
