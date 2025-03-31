@@ -157,13 +157,12 @@ KR44
 #### 📊 GitHub Stats
 
 ![User Metrics](./images/user-metrics.svg)
+
 ![Most Used Languages](./images/most-used-languages.svg)
 
 #### 💰 Donating
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/iamrezamousavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/iamrezamousavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
-<a href="http://www.coffeete.ir/iamrezamousavi"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" alt="coffeete" style="width:260px;" /></a>
-</div>
+<a href="http://www.coffeete.ir/iamrezamousavi"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" alt="coffeete" style="width:150px;" /></a>
 <!-- markdownlint-enable MD033 MD041 -->
