@@ -160,9 +160,16 @@ KR44
 
 ![Most Used Languages](./images/most-used-languages.svg)
 
-#### 💰 Donating
+#### ❤️ Donating
 
-<a href="https://www.buymeacoffee.com/iamrezamousavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+Love my projects? You can donate via the following methods:
 
-<a href="http://www.coffeete.ir/iamrezamousavi"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" alt="coffeete" style="width:150px;" /></a>
+| Method | Network | Address |
+| ------ | ------- | ------- |
+| **₿ Bitcoin (BTC)** | Bitcoin Mainnet | `bc1q770dff4etl8c96xd5qs5977d7ewevr0lca7e8h` |
+| **♢ Ethereum (ETH)** | Ethereum (ERC20) | `0x21beeb10ae7f6b43ef96e008e0917b76cf78d837` |
+| **🇹 Tether (USDT)** | TRON (TRC20, recommended for low fees) | `TJWzya3Z4byJVoGkfLytGAasNMvBVjnCA8` |
+
+---
+
 <!-- markdownlint-enable MD033 MD041 -->
